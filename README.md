@@ -21,7 +21,7 @@ Ensure you have Python installed on your system. No additional libraries are req
 Run the script from the command line to start interacting with the banking system:
 
 ```bash
-python [script_name].py
+python task_banking_banking.py
 ```
 
 Follow the on-screen prompts to perform various banking operations. The menu options are:
